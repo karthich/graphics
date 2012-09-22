@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1348198725 source:/home/karthich/cpp projects/hingedViews/src/CByteImg.cpp
+	"../include/CByteImg.h"
+
+1347658935 /home/karthich/cpp projects/hingedViews/include/CByteImg.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<stdint.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstring>
+	<cmath>
+
+1348199302 source:/home/karthich/cpp projects/hingedViews/src/CCamera.cpp
+	"../include/CCamera.h"
+	<math.h>
+	<iostream>
+
+1328798874 /home/karthich/cpp projects/hingedViews/include/CCamera.h
+	<GL/glut.h>
+
+1348198757 source:/home/karthich/cpp projects/hingedViews/src/glutPak.cpp
+	"../include/glutPak.h"
+
+1347671551 /home/karthich/cpp projects/hingedViews/include/glutPak.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<cstdlib>
+	<cstdio>
+	<stdint.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	"CByteImg.h"
+
+1348284163 source:/home/karthich/cpp projects/hingedViews/src/hingedViews.cpp
+	"../include/cube.h"
+	"../include/shapes.h"
+	"../include/CCamera.h"
+	"../include/CByteImg.h"
+	"../include/glutPak.h"
+
+1329182832 /home/karthich/cpp projects/hingedViews/include/cube.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<math.h>
+	<iostream>
+	<math.h>
+	"CByteImg.h"
+
+1330892061 /home/karthich/cpp projects/hingedViews/include/shapes.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<math.h>
+

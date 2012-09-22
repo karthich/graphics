@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1330817830 source:/home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/main.cpp
+	"cube.h"
+	"shapes.h"
+	"camera.h"
+	"CByteImg.h"
+	"glutPak.cpp"
+
+1329182832 /home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/cube.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<math.h>
+	<iostream>
+	<math.h>
+	"CByteImg.h"
+
+1330816388 source:/home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/CByteImg.cpp
+	"CByteImg.h"
+
+1328569250 /home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/CByteImg.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<stdint.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstring>
+	<cmath>
+
+1330892061 /home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/shapes.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<math.h>
+
+1330722008 source:/home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/camera.cpp
+	"camera.h"
+	"math.h"
+	<iostream>
+
+1328798874 /home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/camera.h
+	<GL/glut.h>
+
+1328814009 source:/home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/glutPak.cpp
+	"glutPak.h"
+
+1328810541 /home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/glutPak.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<cstdlib>
+	<cstdio>
+	<stdint.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	"CByteImg.h"
+
+1330722005 /home/karthich/Dropbox/EECS 351 Introduction to Computer Graphics/Assignments/assignment2/glutPak.cpp
+	"glutPak.h"
+
