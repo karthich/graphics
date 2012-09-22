@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1348195117 source:/home/karthich/cpp projects/shaders/src/CTransRot.cpp
+	"../include/prog.h"
+	"../include/CTransRot.h"
+
+1334276750 /home/karthich/cpp projects/shaders/include/prog.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	<math.h>
+	<string>
+	"nu_progShader.h"
+
+1348018217 /home/karthich/cpp projects/shaders/include/nu_progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1331164503 /home/karthich/cpp projects/shaders/include/CTransRot.h
+
+1348195091 source:/home/karthich/cpp projects/shaders/src/camera.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+	"../include/camera.h"
+
+1328798874 /home/karthich/cpp projects/shaders/include/camera.h
+	<GL/glut.h>
+
+1348195128 source:/home/karthich/cpp projects/shaders/src/lampMatl_01.cpp
+	"../include/lampMatl_01.h"
+
+1297351826 /home/karthich/cpp projects/shaders/include/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1297352416 /home/karthich/cpp projects/shaders/include/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1348195140 source:/home/karthich/cpp projects/shaders/src/my_vecmat.cpp
+	"../include/my_vecmat.h"
+
+1348197873 source:/home/karthich/cpp projects/shaders/src/nu_progShader.cpp
+	"../include/nu_progShader.h"
+
+1348284983 source:/home/karthich/cpp projects/shaders/src/shaders.cpp
+	"../include/prog.h"
+	"../include/shapes.h"
+	"../include/lampMatl_01.h"
+	"../include/CTransRot.h"
+	"../include/textures.h"
+
+1333507127 /home/karthich/cpp projects/shaders/include/shapes.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/freeglut.h>
+	<GL/glu.h>
+	<math.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+
+1331503796 /home/karthich/cpp projects/shaders/include/textures.h
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<GLUT/glut.h>
+	<OpenGL/glext.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<GL/glext.h>
+
+1348192763 source:/home/karthich/cpp projects/shaders/src/shapes.cpp
+	<iostream>
+	"../include/shapes.h"
+
